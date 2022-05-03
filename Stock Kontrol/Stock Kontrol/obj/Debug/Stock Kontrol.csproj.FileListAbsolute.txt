@@ -1,0 +1,74 @@
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe.config
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.pdb
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.AssemblyReference.cache
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Properties.Resources.resources
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.GenerateResource.cache
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.exe
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.pdb
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.giris.resources
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.ana_sayfa.resources
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stocklar.resources
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_ekle.resources
+C:\Users\umutr\Desktop\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_guncelle.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe.config
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.pdb
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.AssemblyReference.cache
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.SuggestedBindingRedirects.cache
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.giris.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.ana_sayfa.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Properties.Resources.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stocklar.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_ekle.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_guncelle.resources
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.GenerateResource.cache
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.CoreCompileInputs.cache
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.exe
+E:\Projeler\Ödev\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.pdb
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe.config
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.pdb
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.AssemblyReference.cache
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.giris.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.ana_sayfa.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Properties.Resources.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stocklar.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_ekle.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_guncelle.resources
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.GenerateResource.cache
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.exe
+C:\Users\umutr\OneDrive\Masaüstü\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.pdb
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe.config
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.pdb
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.AssemblyReference.cache
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.giris.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.ana_sayfa.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Properties.Resources.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stocklar.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_ekle.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_guncelle.resources
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.GenerateResource.cache
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.exe
+C:\Users\umutr\Desktop\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.pdb
+E:\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe.config
+E:\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.exe
+E:\Stock Kontrol\Stock Kontrol\bin\Debug\Stock Kontrol.pdb
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.AssemblyReference.cache
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.SuggestedBindingRedirects.cache
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.giris.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.ana_sayfa.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Properties.Resources.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stocklar.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_ekle.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock_Kontrol.Stock_guncelle.resources
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.GenerateResource.cache
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.csproj.CoreCompileInputs.cache
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.exe
+E:\Stock Kontrol\Stock Kontrol\obj\Debug\Stock Kontrol.pdb
